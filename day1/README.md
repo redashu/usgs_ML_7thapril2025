@@ -1,1 +1,19 @@
-# usgs_ML_7thapril2025
+## Basic Mindset of ML 
+
+<img src="ml1.png">
+
+### General machine learning Model Training process at high 
+
+<img src="ml2.png">
+
+### machine learning options / category understanding 
+
+<img src="ml3.png">
+
+### Data in Supervised ML will be 
+
+<img src="ml4.png">
+
+## Understanding classification and regression in ML(supervised category)
+
+<img src="ml5.png">
