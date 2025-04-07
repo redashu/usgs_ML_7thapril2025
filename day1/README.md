@@ -17,3 +17,11 @@
 ## Understanding classification and regression in ML(supervised category)
 
 <img src="ml5.png">
+
+## Final ML details 
+
+<img src="ml6.png">
+
+### data understanding before we try to Train to Algo 
+
+<img src="ml7.png">
