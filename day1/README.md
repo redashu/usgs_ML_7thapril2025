@@ -70,3 +70,14 @@ Requirement already satisfied: python-dateutil>=2.8.2 in ./ashu-env/lib/python3.
 
 ### outcome of train_test_split in scikit-learn 
 <img src="sk1.png">
+
+## DecisionTree Understanding 
+<img src="algo1.png">
+
+### Linear Regression 
+
+<img src="algo2.png">
+
+### sklearn making steps simple 
+
+<img src="algo3.png">
