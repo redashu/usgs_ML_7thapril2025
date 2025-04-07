@@ -2,7 +2,7 @@
 
 ## Timings 
 
-<img src="time.png">
+<img src="time1.png">
 
 ## Labs 
 
